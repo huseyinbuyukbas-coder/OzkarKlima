@@ -1,0 +1,6 @@
+{
+  "name": "Klima Teknik Servis Özkar",
+  "description": "Klima Alım Satım, Arıza, Bakım, Montaj ve Yedek Parça Teknik Servis Hizmetleri - Bahçelievler / İstanbul",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
